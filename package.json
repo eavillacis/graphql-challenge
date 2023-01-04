@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brayanarrieta/graphql-code-challenge-scaffold.git"
+    "url": "git+https://github.com/eavillacis/graphql-challenge.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brayanarrieta/graphql-code-challenge-scaffold/issues"
+    "url": "https://github.com/eavillacis/graphql-challenge/issues"
   },
-  "homepage": "https://github.com/brayanarrieta/graphql-code-challenge-scaffold#readme",
+  "homepage": "https://github.com/eavillacis/graphql-challenge#readme",
   "dependencies": {
     "express": "^4.18.2",
     "express-graphql": "^0.12.0",
