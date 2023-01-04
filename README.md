@@ -7,6 +7,8 @@ Start the project with the next command
 npm run ci && npm run mock-data && npm run start
 ````
 
+or just run `npm run start`
+
 ## Start Querying
 
 Get Posts with pagination.
